@@ -1,53 +1,96 @@
 {
-    "Cars":[
-       {
-          "id":0,
-          "name":"Ford Mustang",
-          "year":"1969",
-          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/1969_Ford_Mustang.jpg/280px-1969_Ford_Mustang.jpg",
-          "description":"The 1969 model year restyle which added more heft to the body, with body length extended by 3.8 inches (97 mm) (the wheelbase remaining at 108 inches), width increased by almost half an inch, and the Mustang's weight went up markedly too.",
-          "engine's":[
-             "200 cu in (3.3 L) Thriftpower I6 (1970) 1-barrel",
-             "250 cu in (4.1 L) Thriftpower I6 (1969–1970) 1-barrel",
-             "Windsor V8 (1969) 2-barrel",
-             "428 cu in (7.0 L) Cobra Jet & Super Cobra Jet V8 (1969–1970) 4-barrel",
-             "429 cu in (7.0 L) Boss V8 (1969–1970) 4-barrel",
-             "302 cu in (4.9 L) Boss V8 (1969–1970) 4-barrel",
-             "390 cu in (6.4 L) FE V8 (1969) 4-barrel"
-          ],
-          "dimensions":[
-             {
-                "addressId":"0",
-                "wheelbase":"108 in (2,743 mm)",
-                "length":"187.5 in (4,762 mm)",
-                "width":"71.7 in (1,821 mm)",
-                "height":"50.5 in (1,283 mm)",
-                "curb weight":"3,122 lb (1,416 kg) (base"
-             }
-          ]
-       },
-       {
-        "id":1,
-        "name":"Chevy Camaro",
-        "year":"1969",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/1969_red_Chevrolet_Camaro_SS_side.JPG/220px-1969_red_Chevrolet_Camaro_SS_side.JPG",
-        "description":"The 1969 Camaro carried over the previous year's drivetrain and major mechanical components, but all-new sheet metal, except the hood and trunk lid, gave the car a substantially sportier look.",
-        "engine's":[
-           "L34 (325 hp)",
-           "L35 (350 hp)",
-           "L78 (375 hp, iron heads)",
-           "L89 (375 hp with aluminum heads)"
-        ],
-        "dimensions":[
-           {
-              "addressId":"0",
-              "wheelbase":"108.0 in | 2743 mm",
-              "length":"166.0 in | 4216 mm",
-              "width":"72.5 in | 1842 mm",
-              "height":"51.0 in | 1295 mm",
-              "curb weight":"NA"
-           }
-        ]
-       }
-    ]
- }
+   "Cars":[
+      {
+         "id":0,
+         "brand":"Dodge",
+         "make":"Charger",
+         "year":[
+            {
+               "1966":[
+                  {
+                     "description":"The year was 1966 when Dodge finally joined the fastback muscle car party with the Charger. It was based on the B-body platform and was previewed in an ad that ran during that year’s Rose Bowl which talked about the new 'Leader of the Dodge Rebellion.'",
+                     "dimensions":[
+                        {
+                           "addressId":"0",
+                           "wheelbase":"2972 mm / 117 in",
+                           "length":"5171 mm / 203.6 in",
+                           "width":"1913 mm / 75.3 in",
+                           "height":"1346 mm / 53 in",
+                           "curb weight":"approx 1670 kg / 3680 lbs",
+                           "image":"https://www.automobile-catalog.com/img/picto28h/dodge/1966-dodge-charger.jpg"
+                        }
+                     ],
+                     "engine's":[
+                        "318 V-8",
+                        "318 V-8 4-speed",
+                        "318 V-8 TorqueFlite",
+                        "361 V-8 4-speed",
+                        "361 V-8 TorqueFlite",
+                        "383 V-8 4-speed",
+                        "383 V-8 TorqueFlite",
+                        "426 V-8 Street-Hemi 4-speed",
+                        "426 V-8 Street-Hemi TorqueFlite"
+                     ]
+                  }
+               ],
+               "1967":[
+                  {
+                     "description":"The 1967 Dodge Charger saw the introduction of the 440 Magnum and it was now the standard engine with the new R/T package.",
+                     "dimensions":[
+                        {
+                           "addressId":"0",
+                           "wheelbase":"2972 mm / 117 in",
+                           "length":"5171 mm / 203.6 in",
+                           "width":"1913 mm / 75.3 in",
+                           "height":"1367 mm / 53.8 in",
+                           "curb weight":"approx 1700 kg / 3748 lbs",
+                           "image":"https://www.automobile-catalog.com/img/picto28h/dodge/1967-dodge-charger-4.jpg"
+                        }
+                     ],
+                     "engine's":[
+                        "318 V-8",
+                        "318 V-8 TorqueFlite",
+                        "383 V-8 2-bbl. 4-speed",
+                        "383 V-8 2-bbl. TorqueFlite",
+                        "383 V-8 4-bbl. 4-speed",
+                        "383 V-8 4-bbl. TorqueFlite",
+                        "R/T 426 V-8 Street-Hemi 4-speed",
+                        "R/T 426 V-8 Street-Hemi TorqueFlite",
+                        "R/T 440 V-8 Magnum 4-speed",
+                        "R/T 440 V-8 Magnum TorqueFlite"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":1,
+         "brand":"NA",
+         "make":"NA",
+         "year":[
+            {
+               "NA":[
+                  {
+                     "description":"NA",
+                     "dimensions":[
+                        {
+                           "addressId":"0",
+                           "wheelbase":"",
+                           "length":"",
+                           "width":"",
+                           "height":"",
+                           "curb weight":"",
+                           "image":""
+                        }
+                     ],
+                     "engine's":[
+                        
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
