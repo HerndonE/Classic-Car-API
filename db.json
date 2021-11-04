@@ -1,96 +1,96 @@
 {
-   "Cars":[
-      {
-         "id":0,
-         "brand":"Dodge",
-         "make":"Charger",
-         "year":[
-            {
-               "1966":[
-                  {
-                     "description":"The year was 1966 when Dodge finally joined the fastback muscle car party with the Charger. It was based on the B-body platform and was previewed in an ad that ran during that year’s Rose Bowl which talked about the new 'Leader of the Dodge Rebellion.'",
-                     "dimensions":[
-                        {
-                           "addressId":"0",
-                           "wheelbase":"2972 mm / 117 in",
-                           "length":"5171 mm / 203.6 in",
-                           "width":"1913 mm / 75.3 in",
-                           "height":"1346 mm / 53 in",
-                           "curb weight":"approx 1670 kg / 3680 lbs",
-                           "image":"https://www.automobile-catalog.com/img/picto28h/dodge/1966-dodge-charger.jpg"
-                        }
-                     ],
-                     "engine's":[
-                        "318 V-8",
-                        "318 V-8 4-speed",
-                        "318 V-8 TorqueFlite",
-                        "361 V-8 4-speed",
-                        "361 V-8 TorqueFlite",
-                        "383 V-8 4-speed",
-                        "383 V-8 TorqueFlite",
-                        "426 V-8 Street-Hemi 4-speed",
-                        "426 V-8 Street-Hemi TorqueFlite"
-                     ]
-                  }
+   "Cars": [
+     {
+       "id": 0,
+       "brand": "Dodge",
+       "make": "Charger",
+       "year": [
+         {
+           "1966": [
+             {
+               "description": "The year was 1966 when Dodge finally joined the fastback muscle car party with the Charger. It was based on the B-body platform and was previewed in an ad that ran during that year’s Rose Bowl which talked about the new 'Leader of the Dodge Rebellion.'",
+               "dimensions": [
+                 {
+                   "addressId": "0",
+                   "wheelbase": "2972 mm / 117 in",
+                   "length": "5171 mm / 203.6 in",
+                   "width": "1913 mm / 75.3 in",
+                   "height": "1346 mm / 53 in",
+                   "curb weight": "approx 1670 kg / 3680 lbs",
+                   "image": "https://www.automobile-catalog.com/img/picto28h/dodge/1966-dodge-charger.jpg"
+                 }
                ],
-               "1967":[
-                  {
-                     "description":"The 1967 Dodge Charger saw the introduction of the 440 Magnum and it was now the standard engine with the new R/T package.",
-                     "dimensions":[
-                        {
-                           "addressId":"0",
-                           "wheelbase":"2972 mm / 117 in",
-                           "length":"5171 mm / 203.6 in",
-                           "width":"1913 mm / 75.3 in",
-                           "height":"1367 mm / 53.8 in",
-                           "curb weight":"approx 1700 kg / 3748 lbs",
-                           "image":"https://www.automobile-catalog.com/img/picto28h/dodge/1967-dodge-charger-4.jpg"
-                        }
-                     ],
-                     "engine's":[
-                        "318 V-8",
-                        "318 V-8 TorqueFlite",
-                        "383 V-8 2-bbl. 4-speed",
-                        "383 V-8 2-bbl. TorqueFlite",
-                        "383 V-8 4-bbl. 4-speed",
-                        "383 V-8 4-bbl. TorqueFlite",
-                        "R/T 426 V-8 Street-Hemi 4-speed",
-                        "R/T 426 V-8 Street-Hemi TorqueFlite",
-                        "R/T 440 V-8 Magnum 4-speed",
-                        "R/T 440 V-8 Magnum TorqueFlite"
-                     ]
-                  }
+               "engine's": [
+                 "318 V-8",
+                 "318 V-8 4-speed",
+                 "318 V-8 TorqueFlite",
+                 "361 V-8 4-speed",
+                 "361 V-8 TorqueFlite",
+                 "383 V-8 4-speed",
+                 "383 V-8 TorqueFlite",
+                 "426 V-8 Street-Hemi 4-speed",
+                 "426 V-8 Street-Hemi TorqueFlite"
                ]
-            }
-         ]
-      },
-      {
-         "id":1,
-         "brand":"NA",
-         "make":"NA",
-         "year":[
-            {
-               "NA":[
-                  {
-                     "description":"NA",
-                     "dimensions":[
-                        {
-                           "addressId":"0",
-                           "wheelbase":"",
-                           "length":"",
-                           "width":"",
-                           "height":"",
-                           "curb weight":"",
-                           "image":""
-                        }
-                     ],
-                     "engine's":[
-                        
-                     ]
-                  }
+             }
+           ],
+           "1967": [
+             {
+               "description": "The 1967 Dodge Charger saw the introduction of the 440 Magnum and it was now the standard engine with the new R/T package.",
+               "dimensions": [
+                 {
+                   "addressId": "0",
+                   "wheelbase": "2972 mm / 117 in",
+                   "length": "5171 mm / 203.6 in",
+                   "width": "1913 mm / 75.3 in",
+                   "height": "1367 mm / 53.8 in",
+                   "curb weight": "approx 1700 kg / 3748 lbs",
+                   "image": "https://www.automobile-catalog.com/img/picto28h/dodge/1967-dodge-charger-4.jpg"
+                 }
+               ],
+               "engine's": [
+                 "318 V-8",
+                 "318 V-8 TorqueFlite",
+                 "383 V-8 2-bbl. 4-speed",
+                 "383 V-8 2-bbl. TorqueFlite",
+                 "383 V-8 4-bbl. 4-speed",
+                 "383 V-8 4-bbl. TorqueFlite",
+                 "R/T 426 V-8 Street-Hemi 4-speed",
+                 "R/T 426 V-8 Street-Hemi TorqueFlite",
+                 "R/T 440 V-8 Magnum 4-speed",
+                 "R/T 440 V-8 Magnum TorqueFlite"
                ]
-            }
-         ]
-      }
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1,
+       "brand": "NA",
+       "make": "NA",
+       "year": [
+         {
+           "NA": [
+             {
+               "description": "NA",
+               "dimensions": [
+                 {
+                   "addressId": "0",
+                   "wheelbase": "",
+                   "length": "",
+                   "width": "",
+                   "height": "",
+                   "curb weight": "",
+                   "image": ""
+                 }
+               ],
+               "engine's": [
+                 
+               ]
+             }
+           ]
+         }
+       ]
+     }
    ]
-}
+ }
